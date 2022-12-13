@@ -1,13 +1,13 @@
 # laravel-nextcloud
 
-Based on https://github.com/pascalbaljetmedia/laravel-webdav
+Based on https://github.com/jedlikowski/laravel-nextcloud
 
 ## Install
 
 Via Composer
 
 ```bash
-$ composer require jedlikowski/laravel-nextcloud
+$ composer require beknazar312/laravelextcloud
 ```
 
 ## Usage
