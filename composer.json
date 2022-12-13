@@ -1,13 +1,13 @@
 {
-    "name": "beknazar312/laravelNextcloud",
+    "name": "beknazar312/laravel-nextcloud",
     "type": "library",
     "version": "1.0.0",
     "description": "Laravel 9 NextCloud Filesystem",
     "keywords": [
         "beknazar312",
-        "laravelNextcloud"
+        "laravel-nextcloud"
     ],
-    "homepage": "https://github.com/beknazar312/laravelNextcloud",
+    "homepage": "https://github.com/beknazar312/laravel-nextcloud",
     "authors": [
         {
             "name": "Beknazar Nurkulov",

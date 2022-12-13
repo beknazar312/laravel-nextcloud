@@ -7,7 +7,7 @@ Based on https://github.com/jedlikowski/laravel-nextcloud
 Via Composer
 
 ```bash
-$ composer require beknazar312/laravelextcloud
+$ composer require beknazar312/laravel-nextcloud
 ```
 
 ## Usage
